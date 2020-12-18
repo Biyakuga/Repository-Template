@@ -1,4 +1,4 @@
-# Repository-Template
+# Repository Template
 
 ### *Website examples - http://www.example.com/* 
 
