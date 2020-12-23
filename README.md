@@ -24,5 +24,8 @@
 ## Tech Stack
 <!-- Add text here -->
 
+## License
+<!-- Add links here -->
+
 ## Contact
 <!-- Add links here -->
