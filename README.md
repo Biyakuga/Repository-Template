@@ -20,7 +20,7 @@
 
 ## Run Locally 
 <!-- Add text here -->
-```
+```bash
 code goes here...
 ```
 
