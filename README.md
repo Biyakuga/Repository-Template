@@ -1,6 +1,6 @@
 # Repository Template
 
-### *Website examples - [Example](http://www.example.com/*)*
+### *Website - [Example](http://www.example.com/*)*
 
 
 ## Task
