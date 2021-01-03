@@ -9,7 +9,7 @@
 ## Criteria
 <!-- Add text here -->
 
-## Summary of Tech Stack
+## Summary
 <!-- Add text here -->
 
 ## Functionality
@@ -18,7 +18,7 @@
 ## Design
 <!-- Add text here -->
 
-## Run Locally 
+## Installation 
 <!-- Add text here -->
 ```bash
 code goes here...
