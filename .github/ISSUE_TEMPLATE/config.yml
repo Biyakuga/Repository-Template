@@ -1,0 +1,11 @@
+# Encourage contributors to use issue templates
+blank_issues_enabled: false
+
+# Receive certain reports outside of GitHub by direct people to external sites
+contact_links:
+  - name: Forum Community Support
+    url: https://example.com/
+    about: Please ask and answer questions here.
+  - name: Live Support Chat
+    url: https://example.com/
+    about: Please report bugs or any other issue here.
