@@ -18,10 +18,26 @@
 ## Design
 <!-- Add text here -->
 
-## Installation 
+## Installation
 <!-- Add text here -->
 ```bash
 code goes here...
+```
+
+## Structure
+### Website Example
+```
+Project Name/
+├── index.html
+├── style/
+│   ├── index.css
+│   └── index.min.css
+├── script/
+│   ├── index.js
+│   └── index.min.js
+└── images/
+    ├── logo.png
+    └── favicon.ico
 ```
 
 ## Tech Stack
